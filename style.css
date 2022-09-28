@@ -1,0 +1,8 @@
+.item {
+    background-color: rgb(170, 152, 186);
+    /* height: 100px;
+    width: 150px; */
+    text-align: center;
+    line-height: 100px;
+    border: 2px solid black;
+}
